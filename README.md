@@ -5,6 +5,7 @@
 ## 功能
 
 - 自动传送样例至 cph
+- 复制题面 markdown
 - (欢迎提功能需求)
 
 ## 安装插件
@@ -20,7 +21,14 @@
 
 ## 使用
 
+### 发送样例至 cph
+
 1. 打开安装有 cph 的 vscode，在核桃 OJ 的题目页面点击“发送到 cph”按钮，即可在 cph 看见样例组。
    
 ![](images/image1.png)
 ![](images/image2.png)
+
+### 复制题面 markdown
+
+1. 点击设置按钮，填入 Authonization Token。
+2. 点击“复制题面”按钮，即可在剪贴板中获得题面 markdown。
