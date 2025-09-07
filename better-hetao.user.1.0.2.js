@@ -6,6 +6,8 @@
 // @author       mywwzh
 // @match        https://htoj.com.cn/cpp/oj/problem/detail?pid=*
 // @match        https://htoj.com.cn/python/oj/problem/detail?pid=*
+// @connect      https://api.mywwzh.top/
+// @connect      http://localhost:27121/
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
